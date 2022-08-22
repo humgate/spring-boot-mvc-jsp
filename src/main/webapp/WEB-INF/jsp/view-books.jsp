@@ -24,5 +24,6 @@
                 </c:forEach>
             </tbody>
         </table>
+        <div> "${msg}" </div>
     </body>
 </html>

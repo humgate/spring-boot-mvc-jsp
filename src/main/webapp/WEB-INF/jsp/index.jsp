@@ -6,5 +6,6 @@
     </head>
     <body>
        <div> This is index page </div>
+       <div> "${msg}" </div>
     </body>
 </html>

@@ -17,5 +17,6 @@
             <form:label path="author">Author Name: </form:label> <form:input path="author"/>
             <input type="submit" value="submit"/>
         </form:form>
+        <div> "${msg}" </div>
     </body>
 </html>
